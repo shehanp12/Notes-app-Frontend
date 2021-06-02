@@ -1,4 +1,5 @@
 const config = {
+  STRIPE_KEY: "pk_test_51IvyrYGKckd3D8t4Orq29shTxEmkDNiclEkjawBgobwlW2X6TyOP0CnCuF4YmALhLUq0ApzYyrf2C5sDF9wPKTOj00cYvohhq0",
   
     s3: {
       REGION: "ap-south-1",
